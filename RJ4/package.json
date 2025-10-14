@@ -1,0 +1,14 @@
+{
+  "name": "rj4",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "rj4modulo": "file:./node_modules/rj4modulo"
+  },
+  "author": "Guih0412",
+  "license": "ISC"
+}
